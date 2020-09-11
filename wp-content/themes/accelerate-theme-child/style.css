@@ -58,29 +58,10 @@ aside.case-study-sidebar {
   float: left;
   width: 300px;
   padding-right: 20px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 div.case-study-images {
   float: left;
   width: 600px;
 }
-
-<aside class="case-study-sidebar">
-<h2></h2>
-<h5></h5>
-<h6>Client: Mailchimp</h6>
-
-<p>Here is some sample text about what I did. Yep I did all this myself. Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.</p>
-
-</aside>
-
-
-<div class="case-study-images">
-
-<img src="" alt="" width="608" height="448" class="alignnone size-full wp-image-47337" />
-
-<img src="http://localhost:8888/accelerate/wp-content/uploads/2020/09/mc-thumbnail-2.png" alt="" width="606" height="817" class="alignnone size-full wp-image-47338" />
-
-<img src="http://localhost:8888/accelerate/wp-content/uploads/2020/09/mc-thumbnail-3.png" alt="" width="606" height="1211" class="alignnone size-full wp-image-47339" />
-</div>
