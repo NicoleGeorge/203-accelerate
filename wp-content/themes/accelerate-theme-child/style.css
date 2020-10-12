@@ -122,6 +122,12 @@ div.case-study-images img {
   border: 1px solid #dddddd;
 }
 
+/* Contact form page */
+
+.nf-forms-field {
+  float: left;
+}
+
 /* Footer */
 
 .social-media-menu li {
