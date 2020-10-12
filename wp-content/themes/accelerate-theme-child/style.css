@@ -126,6 +126,16 @@ div.case-study-images img {
 
 .social-media-menu li {
   list-style-type: none;
+  float: right;
+}
+
+.social-media-navigation {
+  list-style-type: none;
+  float: right;
+}
+
+.social-media-menu ul {
+  overflow: auto;
 }
 
 .social-media-menu span {
@@ -134,10 +144,9 @@ div.case-study-images img {
 
 .social-media-menu .fa::before {
   color: white;
-  height: 20px;
+  height: 25px;
   width: 25px;
   border-radius: 50%;
   background-color: black;
-  padding: 5px;
+  padding: 10px;
 }
-
